@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Profile Banner" />
+  <img src="assets/Profile_Banner.gif" alt="Profile Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm ABHISHEK</h1>
