@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="abhishek10806/profile_banner.gif" alt="Profile Banner" />
+  <img src="profile_banner.gif" alt="Profile Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm ABHISHEK</h1>
+
 
 <p align="center">
   🎓 Data Science & Artificial Intelligence Student <br/>
