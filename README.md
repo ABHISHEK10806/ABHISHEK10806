@@ -13,6 +13,10 @@
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek10806&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek10806" /> </p>
+
+---
+
 ## 🌐 Let's Connect:
 <p align="left">
   <a href="https://www.linkedin.com/in/abhishek-114951369">
@@ -74,6 +78,14 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
+
+---
+
+## ☁️ **Cloud & Databases**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=AmazonDynamoDB&logoColor=white)
 
 ---
 
