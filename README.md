@@ -77,6 +77,18 @@
 
 ---
 
+##  🚀 Projects & Assignments
+
+-   https://github.com/ABHISHEK10806/NEURAL-NETWORK-ARCHITECTURES.git
+-   https://github.com/ABHISHEK10806/ANN-PROJECT.git
+-   https://github.com/ABHISHEK10806/BUSINESS-INTELLIGENCE.git
+-   https://github.com/ABHISHEK10806/Machine-Learning-Models.git
+-   https://github.com/ABHISHEK10806/Expert-Python-Programming.git
+-   https://github.com/ABHISHEK10806/Unstructured-Database.git
+-   https://github.com/ABHISHEK10806/Insight-Analytics.git
+
+---
+
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHISHEK10806&show_icons=true&theme=default)
 
