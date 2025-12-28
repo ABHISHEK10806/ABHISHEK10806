@@ -89,10 +89,10 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHISHEK10806&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK10806&layout=compact)
+## 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhishek10806&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abhishek10806&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek10806&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
