@@ -98,6 +98,9 @@
 -   https://github.com/ABHISHEK10806/Expert-Python-Programming.git
 -   https://github.com/ABHISHEK10806/Unstructured-Database.git
 -   https://github.com/ABHISHEK10806/Insight-Analytics.git
+-   https://github.com/ABHISHEK10806/NLP_PROJECT2-Sentiment-Analysis-of-INSTA-INFLUENCER-CHANNEL-INFO-.git
+-   https://github.com/ABHISHEK10806/NLP-PROJECT-LANGUAGE-DETECTION-.git
+-   https://github.com/ABHISHEK10806/NATURAL-LANGUAGE-PROCESSING.git
 
 ---
 
